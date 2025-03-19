@@ -1,8 +1,4 @@
-Hi 👋, I'm M Fulgence,
-🔭 I’m currently working on my projects 
-🌱 I’m currently learning ReactJs, Node.Js, Tailwind CSS, nginx...
-
-
+#portfolio
 <h1 align="center"> Hi 👋, I'm M Fulgence,</h1>
 <h3 align="center">A passionate full-stack developer from Rwanda </h3>
 <h2>🌱 I’m currently learning ReactJs, Node.Js, Tailwind CSS, nginx...</h2>
